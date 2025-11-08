@@ -1,0 +1,16 @@
+{
+	"institutions": [
+		{
+			"institution": "University A",
+			"services": ["Career Counseling", "Internships", "Alumni Network", "Job Fairs", "Resume Workshops"]
+		},
+		{
+			"institution": "University B",
+			"services": ["Career Counseling", "Mentorship", "Internships", "Mock Interviews", "Alumni Network"]
+		},
+		{
+			"institution": "University C",
+			"services": ["Internships", "Job Fairs", "Resume Workshops"]
+		}
+	]
+}
